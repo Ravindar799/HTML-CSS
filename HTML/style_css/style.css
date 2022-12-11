@@ -1,0 +1,59 @@
+#biryani{
+    padding: 25px;
+    align-content: left;
+}
+#a{
+    padding: 15px;
+    margin: 25px;
+    border-radius: 2px;
+    background-color: rgb(110, 168, 210);
+    text-decoration: solid;
+    color: black;
+    box-sizing: content-box;
+    border-radius: 7px;
+    align-items: center;
+    position: sticky;
+}
+#a{
+    color:black;
+    font-size: x-large;
+    display: inline;
+    border-radius: 9px;
+    background-color: white;
+}
+body {
+    background: linear-gradient(135deg,#71b7e6,#9b59b6);
+}
+#a:hover{
+    color:white ;
+    background: linear-gradient(135deg,#71b7e6,#9b59b6);
+    border-color: linear-gradient(135deg,#71e677,#8c59b6);
+
+}
+
+#image-main:hover {
+    padding-bottom: 10px;
+    padding-left: 10px;
+    background: linear-gradient(135deg,#61ee78,#eb5ec7);
+}
+#image-main {
+    display: inline-flex;
+    margin-left: 20px;  
+    border-radius: 25px;
+}
+#main {
+    text-align: center;
+}
+#second {
+    text-align:right;
+}
+ img {
+    border-radius: 9px;
+ }
+
+ .temp{
+    float: down;
+ }
+ p {
+    margin-top: 50px solid magenta;
+ }
